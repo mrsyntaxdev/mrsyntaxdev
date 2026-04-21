@@ -7,7 +7,7 @@
 <p>5 anos de código em ação</p>
 
 <div style="margin:20px 0">
-  <a href="https://discord.gg/FYWn7RHEwh" target="_blank">
+  <a href="https://discord.gg/7jJNdHHekn" target="_blank">
     <img src="https://img.shields.io/badge/Weave-Invite-000?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
   <a href="https://discord.com/users/mrsyntaxdev" target="_blank">
