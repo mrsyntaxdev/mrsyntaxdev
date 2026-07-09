@@ -21,7 +21,7 @@
 <br>
 
 <p style="max-width:700px;margin:0 auto 15px;font-size:15px;line-height:1.5">
-  <strong>Weave Hub</strong> • Bots → Full Stack<br>
+  <strong>x7 St34l3r & ????</strong> • Bots → Full Stack<br>
   Automação inteligente é minha paixão
 </p>
 
